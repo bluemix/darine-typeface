@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twodotshorizontalabove-ar.001" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="_twodots"/>
+    <contour>
+      <point x="301" y="501" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="302" y="746" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

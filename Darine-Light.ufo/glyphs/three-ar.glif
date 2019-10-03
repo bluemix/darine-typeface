@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three-ar" format="1">
+  <advance width="824"/>
+  <unicode hex="0663"/>
+  <outline>
+    <contour>
+      <point x="750" y="1005" type="line"/>
+      <point x="867" y="568"/>
+      <point x="557" y="405"/>
+      <point x="341" y="565" type="curve"/>
+      <point x="323" y="541" type="line"/>
+      <point x="555" y="369"/>
+      <point x="903" y="552"/>
+      <point x="778" y="1013" type="curve"/>
+    </contour>
+    <contour>
+      <point x="386" y="995" type="line"/>
+      <point x="530" y="588"/>
+      <point x="260" y="466"/>
+      <point x="71" y="561" type="curve"/>
+      <point x="57" y="535" type="line"/>
+      <point x="260" y="432"/>
+      <point x="568" y="572"/>
+      <point x="414" y="1005" type="curve"/>
+    </contour>
+    <contour>
+      <point x="69" y="6" type="line"/>
+      <point x="79" y="368"/>
+      <point x="79" y="631"/>
+      <point x="50" y="1015" type="curve"/>
+      <point x="20" y="1013" type="line"/>
+      <point x="49" y="629"/>
+      <point x="49" y="368"/>
+      <point x="39" y="6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

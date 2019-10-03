@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seen-ar.medi" format="1">
+  <advance width="821"/>
+  <unicode hex="FEB4"/>
+  <outline>
+    <contour>
+      <point x="744" y="201" type="curve"/>
+      <point x="744" y="255"/>
+      <point x="718" y="233"/>
+      <point x="715" y="169" type="curve"/>
+      <point x="722" y="69"/>
+      <point x="737" y="0"/>
+      <point x="821" y="0" type="curve"/>
+      <point x="821" y="30" type="line"/>
+      <point x="765" y="30"/>
+      <point x="748" y="86"/>
+    </contour>
+    <component base="seen-ar.init"/>
+    <contour>
+      <point x="821" y="0" type="move" name="#entry"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="#exit"/>
+    </contour>
+    <contour>
+      <point x="430" y="802" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hamzaaboveSukun-ar" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="sukun-ar" xOffset="-75" yOffset="-533"/>
+    <component base="hamza-ar" xOffset="48" yOffset="114"/>
+    <contour>
+      <point x="306" y="90" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="306" y="967" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

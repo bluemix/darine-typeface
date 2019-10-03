@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tah-ar.init" format="1">
+  <advance width="1126"/>
+  <unicode hex="FEC3"/>
+  <outline>
+    <contour>
+      <point x="174" y="14" type="line"/>
+      <point x="206" y="359"/>
+      <point x="419" y="561"/>
+      <point x="751" y="561" type="curve" smooth="yes"/>
+      <point x="921" y="561"/>
+      <point x="1016" y="479"/>
+      <point x="1016" y="335" type="curve" smooth="yes"/>
+      <point x="1016" y="134"/>
+      <point x="938" y="90"/>
+      <point x="552" y="90" type="curve" smooth="yes"/>
+      <point x="419" y="90"/>
+      <point x="40" y="90"/>
+      <point x="0" y="90" type="curve"/>
+      <point x="0" y="0" type="line"/>
+      <point x="38" y="0"/>
+      <point x="419" y="0"/>
+      <point x="552" y="0" type="curve" smooth="yes"/>
+      <point x="982" y="0"/>
+      <point x="1106" y="72"/>
+      <point x="1106" y="335" type="curve" smooth="yes"/>
+      <point x="1106" y="530"/>
+      <point x="970" y="651"/>
+      <point x="751" y="651" type="curve" smooth="yes"/>
+      <point x="373" y="651"/>
+      <point x="120" y="413"/>
+      <point x="84" y="22" type="curve"/>
+    </contour>
+    <contour>
+      <point x="105" y="1050" type="line"/>
+      <point x="105" y="964"/>
+      <point x="106" y="891"/>
+      <point x="106" y="823" type="curve" smooth="yes"/>
+      <point x="106" y="578"/>
+      <point x="109" y="399"/>
+      <point x="82" y="-71" type="curve"/>
+      <point x="172" y="-77" type="line"/>
+      <point x="207" y="529"/>
+      <point x="195" y="658"/>
+      <point x="195" y="1050" type="curve"/>
+    </contour>
+    <contour>
+      <point x="552" y="0" type="move" name="#entry"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="#exit"/>
+    </contour>
+    <contour>
+      <point x="413" y="893" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

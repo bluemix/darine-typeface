@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threedotsdownabove-ar" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="290" y="868" type="move"/>
+    </contour>
+    <component base="_twodots" xOffset="25" yOffset="653"/>
+    <component base="one_dot" xOffset="-11" yOffset="258"/>
+    <contour>
+      <point x="311" y="525" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="314" y="1061" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

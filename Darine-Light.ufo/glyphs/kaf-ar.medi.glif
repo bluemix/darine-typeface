@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kaf-ar.medi" format="1">
+  <advance width="658"/>
+  <unicode hex="FEDC"/>
+  <outline>
+    <component base="_connection2" xScale="2.6280" xOffset="351"/>
+    <component base="kaf-ar.init"/>
+  </outline>
+</glyph>

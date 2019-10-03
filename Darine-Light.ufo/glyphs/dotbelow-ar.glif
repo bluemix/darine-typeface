@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelow-ar" format="1">
+  <advance width="270"/>
+  <outline>
+    <component base="one_dot" xOffset="-155" yOffset="-934"/>
+    <contour>
+      <point x="135" y="-243" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="135" y="-333" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="135" y="-333" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

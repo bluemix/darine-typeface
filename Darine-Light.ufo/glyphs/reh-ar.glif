@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reh-ar" format="1">
+  <advance width="246"/>
+  <unicode hex="0631"/>
+  <outline>
+    <contour>
+      <point x="-83" y="-541" type="line"/>
+      <point x="378" y="-213"/>
+      <point x="234" y="201"/>
+      <point x="187" y="494" type="curve"/>
+      <point x="158" y="489" type="line"/>
+      <point x="205" y="193"/>
+      <point x="342" y="-201"/>
+      <point x="-100" y="-517" type="curve"/>
+    </contour>
+    <contour>
+      <point x="243" y="0" type="move" name="#entry"/>
+    </contour>
+    <contour>
+      <point x="121" y="682" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

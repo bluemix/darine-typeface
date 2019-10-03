@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noonghunna-ar.fina" format="1">
+  <advance width="1045"/>
+  <unicode hex="FB9F"/>
+  <outline>
+    <component base="_connection2" xScale="0.4628" xOffset="907"/>
+    <component base="noonghunna-ar"/>
+    <contour>
+      <point x="383" y="305" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dal-ar.fina" format="1">
+  <advance width="814"/>
+  <unicode hex="FEAA"/>
+  <outline>
+    <contour>
+      <point x="508" y="267" type="line"/>
+      <point x="520" y="127"/>
+      <point x="538" y="-20"/>
+      <point x="814" y="0" type="curve"/>
+      <point x="814" y="90" type="line"/>
+      <point x="634" y="70"/>
+      <point x="610" y="133"/>
+      <point x="596" y="285" type="curve"/>
+    </contour>
+    <component base="dal-ar" yOffset="-5"/>
+    <contour>
+      <point x="814" y="0" type="move" name="#entry"/>
+    </contour>
+    <contour>
+      <point x="87" y="756" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

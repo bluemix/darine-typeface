@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="meem-ar.fina" format="1">
+  <advance width="867"/>
+  <unicode hex="FEE2"/>
+  <outline>
+    <component base="_connection2" xScale="1.165" xOffset="520"/>
+    <component base="meem-ar" xOffset="-5"/>
+    <contour>
+      <point x="867" y="0" type="move" name="#entry"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_connection2</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

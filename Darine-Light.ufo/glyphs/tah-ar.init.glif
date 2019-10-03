@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tah-ar.init" format="1">
+  <advance width="981"/>
+  <unicode hex="FEC3"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="39" y="0"/>
+      <point x="338" y="0"/>
+      <point x="472" y="0" type="curve" smooth="yes"/>
+      <point x="849" y="0"/>
+      <point x="981" y="40"/>
+      <point x="981" y="290" type="curve" smooth="yes"/>
+      <point x="981" y="460"/>
+      <point x="865" y="561"/>
+      <point x="671" y="561" type="curve" smooth="yes"/>
+      <point x="316" y="561"/>
+      <point x="83" y="341"/>
+      <point x="49" y="-27" type="curve"/>
+      <point x="79" y="-29" type="line"/>
+      <point x="111" y="323"/>
+      <point x="332" y="531"/>
+      <point x="671" y="531" type="curve" smooth="yes"/>
+      <point x="849" y="531"/>
+      <point x="951" y="443"/>
+      <point x="951" y="290" type="curve" smooth="yes"/>
+      <point x="951" y="59"/>
+      <point x="811" y="30"/>
+      <point x="472" y="30" type="curve" smooth="yes"/>
+      <point x="247" y="30"/>
+      <point x="109" y="30"/>
+      <point x="0" y="30" type="curve"/>
+    </contour>
+    <contour>
+      <point x="78" y="-75" type="line"/>
+      <point x="80" y="48"/>
+      <point x="91" y="155"/>
+      <point x="101" y="264" type="curve" smooth="yes"/>
+      <point x="112" y="389"/>
+      <point x="124" y="514"/>
+      <point x="124" y="664" type="curve" smooth="yes"/>
+      <point x="124" y="789"/>
+      <point x="117" y="912"/>
+      <point x="101" y="1049" type="curve"/>
+      <point x="71" y="1045" type="line"/>
+      <point x="88" y="908"/>
+      <point x="94" y="787"/>
+      <point x="94" y="664" type="curve" smooth="yes"/>
+      <point x="94" y="386"/>
+      <point x="53" y="191"/>
+      <point x="48" y="-75" type="curve"/>
+    </contour>
+    <contour>
+      <point x="472" y="0" type="move" name="#entry"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="#exit"/>
+    </contour>
+    <contour>
+      <point x="414" y="893" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

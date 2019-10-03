@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotcenter-ar" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="one_dot" xOffset="13" yOffset="-607"/>
+    <contour>
+      <point x="330" y="-2" type="move" name="_center"/>
+    </contour>
+    <contour>
+      <point x="330" y="-64" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

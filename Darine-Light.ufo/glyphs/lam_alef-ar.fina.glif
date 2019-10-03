@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam_alef-ar.fina" format="1">
+  <advance width="574"/>
+  <unicode hex="FEFC"/>
+  <outline>
+    <contour>
+      <point x="574" y="0" type="curve"/>
+      <point x="574" y="30" type="line"/>
+      <point x="375" y="30"/>
+      <point x="435" y="370"/>
+      <point x="443" y="525" type="curve"/>
+      <point x="413" y="527" type="line"/>
+      <point x="403" y="348"/>
+      <point x="349" y="0"/>
+    </contour>
+    <component base="lam_alef-ar"/>
+    <contour>
+      <point x="136" y="1129" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>alef-ar.fina</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>lam-ar.medi</string>
+    </dict>
+  </lib>
+</glyph>

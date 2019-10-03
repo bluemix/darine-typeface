@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="waw-ar.fina" format="1">
+  <advance width="601"/>
+  <unicode hex="FEEE"/>
+  <outline>
+    <component base="waw-ar" xScale="0.9991" xyScale="-0.0433" yScale="0.9991" yxScale="0.0433" xOffset="3" yOffset="31"/>
+    <component base="_connection2" xScale="0.5057" xOffset="542"/>
+    <contour>
+      <point x="174" y="813" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>waw-ar</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

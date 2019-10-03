@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="behDotless-ar.medi" format="1">
+  <advance width="558"/>
+  <outline>
+    <contour>
+      <point x="247" y="545" type="line"/>
+      <point x="247" y="77"/>
+      <point x="247" y="90"/>
+      <point x="0" y="90" type="curve"/>
+      <point x="0" y="0" type="line"/>
+      <point x="339" y="0"/>
+      <point x="337" y="77"/>
+      <point x="337" y="545" type="curve"/>
+    </contour>
+    <contour>
+      <point x="558" y="90" type="line"/>
+      <point x="404" y="90"/>
+      <point x="337" y="207"/>
+      <point x="337" y="492" type="curve"/>
+      <point x="247" y="492" type="line"/>
+      <point x="247" y="159"/>
+      <point x="345" y="0"/>
+      <point x="558" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="558" y="0" type="move" name="#entry"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="#exit"/>
+    </contour>
+    <contour>
+      <point x="108" y="822" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

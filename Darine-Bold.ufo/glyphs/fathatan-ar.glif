@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fathatan-ar" format="1">
+  <advance width="600"/>
+  <unicode hex="064B"/>
+  <outline>
+    <component base="fatha-ar" xOffset="-93" yOffset="330"/>
+    <component base="fatha-ar" xOffset="-89" yOffset="531"/>
+    <contour>
+      <point x="295" y="1089" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="295" y="1491" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

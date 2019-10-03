@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaKasra-ar" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="fatha-ar"/>
+    <component base="shadda-ar" xScale="0.9506" xyScale="0.3105" yScale="0.9506" yxScale="-0.3105" xOffset="241" yOffset="111"/>
+    <contour>
+      <point x="421" y="791" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="421" y="1068" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

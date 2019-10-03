@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lam-ar" format="1">
+  <advance width="1099"/>
+  <unicode hex="0644"/>
+  <outline>
+    <contour>
+      <point x="996" y="999" type="line"/>
+      <point x="1001" y="660"/>
+      <point x="1004" y="460"/>
+      <point x="1004" y="268" type="curve" smooth="yes"/>
+      <point x="1004" y="-282"/>
+      <point x="1020" y="-447"/>
+      <point x="571" y="-447" type="curve" smooth="yes"/>
+      <point x="256" y="-447"/>
+      <point x="106" y="-272"/>
+      <point x="133" y="65" type="curve"/>
+      <point x="43" y="73" type="line"/>
+      <point x="12" y="-317"/>
+      <point x="203" y="-537"/>
+      <point x="571" y="-537" type="curve" smooth="yes"/>
+      <point x="1120" y="-537"/>
+      <point x="1094" y="-278"/>
+      <point x="1094" y="268" type="curve" smooth="yes"/>
+      <point x="1094" y="460"/>
+      <point x="1091" y="662"/>
+      <point x="1086" y="1001" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1092" y="-1" type="move" name="#entry"/>
+    </contour>
+    <contour>
+      <point x="343" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

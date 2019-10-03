@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaAlefabove-ar" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="shadda-ar"/>
+    <component base="alefabove-ar" xOffset="-78" yOffset="233"/>
+    <contour>
+      <point x="319" y="639" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="319" y="1141" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

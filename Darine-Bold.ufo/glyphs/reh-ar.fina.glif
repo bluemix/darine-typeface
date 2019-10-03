@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reh-ar.fina" format="1">
+  <advance width="490"/>
+  <unicode hex="FEAE"/>
+  <outline>
+    <component base="_connection2" xScale="-0.4762" xOffset="490"/>
+    <component base="reh-ar"/>
+  </outline>
+</glyph>

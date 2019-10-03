@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hah-ar.medi" format="1">
+  <advance width="967"/>
+  <unicode hex="FEA4"/>
+  <outline>
+    <contour>
+      <point x="831" y="49" type="curve"/>
+      <point x="820" y="21" type="line"/>
+      <point x="885" y="0"/>
+      <point x="919" y="-2"/>
+      <point x="967" y="0" type="curve"/>
+      <point x="967" y="30" type="line"/>
+      <point x="923" y="28"/>
+      <point x="893" y="30"/>
+    </contour>
+    <component base="hah-ar.init"/>
+  </outline>
+</glyph>

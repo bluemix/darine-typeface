@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kashida-ar" format="1">
+  <advance width="117"/>
+  <unicode hex="0640"/>
+  <outline>
+    <component base="_connection2"/>
+  </outline>
+</glyph>

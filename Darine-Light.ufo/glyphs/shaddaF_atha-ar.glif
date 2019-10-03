@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shaddaFatha-ar" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="shadda-ar" xScale="0.9623" xyScale="0.2719" yScale="0.9623" yxScale="-0.2719" xOffset="83" yOffset="-58"/>
+    <component base="fatha-ar" xOffset="-218" yOffset="62"/>
+  </outline>
+</glyph>

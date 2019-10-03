@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hah-ar.fina" format="1">
+  <advance width="775"/>
+  <unicode hex="FEA2"/>
+  <outline>
+    <contour>
+      <point x="775" y="30" type="line"/>
+      <point x="730" y="34"/>
+      <point x="706" y="38"/>
+      <point x="664" y="50" type="curve"/>
+      <point x="664" y="20" type="line"/>
+      <point x="708" y="10"/>
+      <point x="736" y="5"/>
+      <point x="775" y="0" type="curve"/>
+    </contour>
+    <component base="hah-ar" yOffset="20"/>
+    <contour>
+      <point x="775" y="0" type="move" name="#entry"/>
+    </contour>
+  </outline>
+</glyph>
