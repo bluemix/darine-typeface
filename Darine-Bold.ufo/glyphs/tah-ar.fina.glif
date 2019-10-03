@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tah-ar.fina" format="1">
-  <advance width="1205"/>
-  <unicode hex="FEC2"/>
-  <outline>
-    <component base="_connection2" xScale="2.1897" xOffset="552"/>
-    <component base="tah-ar"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kasratan-ar" format="1">
-  <advance width="600"/>
-  <unicode hex="064D"/>
-  <outline>
-    <component base="fathatan-ar" xOffset="-38" yOffset="-1184"/>
-  </outline>
-</glyph>

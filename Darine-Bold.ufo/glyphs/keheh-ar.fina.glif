@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="keheh-ar.fina" format="1">
-  <advance width="900"/>
-  <unicode hex="FB8F"/>
-  <outline>
-    <component base="kaf-ar.medi"/>
-  </outline>
-</glyph>

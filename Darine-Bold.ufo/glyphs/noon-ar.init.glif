@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="noon-ar.init" format="1">
-  <advance width="273"/>
-  <unicode hex="FEE7"/>
-  <outline>
-    <component base="behDotless-ar.init"/>
-    <component base="dotabove-ar" xOffset="-277" yOffset="236"/>
-  </outline>
-</glyph>
