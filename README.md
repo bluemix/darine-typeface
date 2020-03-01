@@ -11,7 +11,7 @@ No support for latin characters, yet.
 
 ### Backstory
 
-<img src="sketches/IMG_1245_2_resized.jpg" width="300" alt="Sketches for Darine typeface"/><img src="sketches/IMG_9892_resized.JPG" width="300" alt="Sketches for Darine typeface"/><img src="sketches/IMG_1378_resized.JPG" width="300" alt="Sketches for Darine typeface"/>
+<img src="sketches/IMG_1245_2_resized.jpg" width="250" alt="Sketches for Darine typeface"/><img src="sketches/IMG_9892_resized.JPG" width="250" alt="Sketches for Darine typeface"/><img src="sketches/IMG_1378_resized.JPG" width="250" alt="Sketches for Darine typeface"/>
 
 
 
