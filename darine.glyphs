@@ -2,7 +2,8 @@
 .appVersion = "1286";
 DisplayStrings = (
 "/meem-ar.fina",
-"/kaf-ar/lam-ar/alef-ar/meem-ar"
+"/kaf-ar/lam-ar/alef-ar/meem-ar",
+"/dal-ar.fina"
 );
 customParameters = (
 {
@@ -34353,5 +34354,5 @@ weightClass = Bold;
 );
 unitsPerEm = 1000;
 versionMajor = 0;
-versionMinor = 860;
+versionMinor = 100;
 }
