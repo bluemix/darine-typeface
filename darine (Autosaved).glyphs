@@ -1,8 +1,10 @@
 {
 .appVersion = "1286";
 DisplayStrings = (
-"/beh-ar/hah-ar/damma-ar/beh-ar/shadda-ar/kaf-ar  ",
-"/hah-ar.fina"
+"/beh-ar/kasra-ar/hah-ar/damma-ar/beh-ar/shadda-ar/kaf-ar",
+"/hah-ar.fina",
+"/behDotless-ar.medi",
+"/beh-ar.medi"
 );
 customParameters = (
 {
@@ -2385,6 +2387,7 @@ nodes = (
 width = 423;
 }
 );
+changeCount = 2;
 },
 {
 glyphname = "behDotless-ar.medi.001";

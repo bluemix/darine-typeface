@@ -3,10 +3,19 @@
 <img src="art/darine-poster.jpg" width="350" alt="Writing text using Darine typeface"/><img src="art/تبتسمين-تخرج-صغار-العصافير.jpg" width="382" alt="Writing text using Darine typeface"/>
 
 
+
+
+
 # Darine
 
 An Arabic typeface that represents hand-written typing. It is my hand-written text.
 No support for latin characters, yet.
+
+### Download:
+
+ [Regular](https://raw.githubusercontent.com/bluemix/darine-typeface/Darine-Regular.ttf)	 • [Light](https://raw.githubusercontent.com/bluemix/darine-typeface/Darine-Light.ttf)  •  [Bold](https://raw.githubusercontent.com/bluemix/darine-typeface/Darine-Bold.ttf)
+
+<br>
 
 
 ### Backstory
