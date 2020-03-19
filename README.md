@@ -13,10 +13,9 @@ No support for latin characters, yet.
 
 ### Download:
 
- [Regular](https://raw.githubusercontent.com/bluemix/darine-typeface/Darine-Regular.ttf)	 • [Light](https://raw.githubusercontent.com/bluemix/darine-typeface/Darine-Light.ttf)  •  [Bold](https://raw.githubusercontent.com/bluemix/darine-typeface/Darine-Bold.ttf)
+ [Regular](https://raw.githubusercontent.com/bluemix/master/darine-typeface/Darine-Regular.ttf)	 • [Light](https://raw.githubusercontent.com/bluemix/master/darine-typeface/Darine-Light.ttf)  •  [Bold](https://raw.githubusercontent.com/bluemix/master/darine-typeface/Darine-Bold.ttf)
 
 <br>
-
 
 ### Backstory
 
