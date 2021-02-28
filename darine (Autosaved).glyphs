@@ -26774,6 +26774,7 @@ nodes = (
 width = 600;
 }
 );
+changeCount = 1;
 },
 {
 export = 0;
@@ -30805,6 +30806,7 @@ layerId = "9AB624CD-9C19-4372-9845-4C197A276709";
 width = 270;
 }
 );
+changeCount = 4;
 },
 {
 glyphname = "dotcenter-ar";
