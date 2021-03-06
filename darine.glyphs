@@ -1,11 +1,9 @@
 {
 .appVersion = "1352";
 DisplayStrings = (
-"/meem-ar/hah-ar/meem-ar.init/meem-ar/dal-ar",
-"/hah-ar/dotcenter-ar/jeem-ar",
-"/hah-ar",
-"/jeem-ar.fina",
-"/jeem-ar"
+"*/space/feh-ar/waw-ar/alef-ar/kaf-ar/kasra-ar/heh-ar/space (/kaf-ar/yeh-ar/lam-ar/waw-ar/space/teh-ar/feh-ar/alef-ar/hah-ar/space/waw-ar/kaf-ar/yeh-ar/lam-ar/waw-ar/space/meem-ar/waw-ar/zain-ar )\012",
+"/waw-ar",
+"/meem-ar.init"
 );
 customParameters = (
 {

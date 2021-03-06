@@ -1,5 +1,5 @@
 
-
+<img src="art/Darine-Poster.png" width="350" alt="Writing text using Darine typeface"/>
 <img src="art/sticker-demo.png" width="350" alt="Writing text using Darine typeface"/>
 
 
