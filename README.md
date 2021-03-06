@@ -1,6 +1,6 @@
 
 
-<img src="art/darine-poster.jpg" width="350" alt="Writing text using Darine typeface"/><img src="art/تبتسمين-تخرج-صغار-العصافير.jpg" width="382" alt="Writing text using Darine typeface"/>
+<img src="art/sticker-demo.png" width="350" alt="Writing text using Darine typeface"/>
 
 
 
@@ -13,6 +13,7 @@ No support for latin characters, yet.
 
 ### Download:
 
+ [Variable](https://raw.githubusercontent.com/bluemix/darine-typeface/master/DarineGX.ttf)	 •
  [Regular](https://raw.githubusercontent.com/bluemix/darine-typeface/master/Darine-Regular.ttf)	 • [Light](https://raw.githubusercontent.com/bluemix/darine-typeface/master/Darine-Light.ttf)  •  [Bold](https://raw.githubusercontent.com/bluemix/darine-typeface/master/Darine-Bold.ttf)
 
 <br>
